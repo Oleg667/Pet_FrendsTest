@@ -1,3 +1,5 @@
+#задание 19.7.2 Гришаев 73 группа
+
 from api import PetFriends
 from settings import valid_email, valid_password
 
